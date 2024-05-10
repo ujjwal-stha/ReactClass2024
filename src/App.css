@@ -1,0 +1,22 @@
+.title {
+  color: orangered;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+footer .nav-link,
+footer h5,
+footer p {
+  color: #ffffff !important;
+}
+
+.card img {
+  height: 200px;
+  object-fit: contain;
+}
+.card-body h5 {
+  font-size: 14px;
+}
+.card-title {
+  height: 48px;
+}
